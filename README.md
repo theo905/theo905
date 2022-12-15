@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theo905
-- 👀 I’m interested in games, medical science, current affairs, chilling/drinking with mates and cooking!
-- 🌱 I’m currently learning C# and JavaScript
-- 💞️ I’m looking to collaborate on TBA
+- 👀 I’m interested in games, medical science, current affairs and of course coding :)
+- 🌱 Still new to this space but I'm currently learning C# as part of my Postgraduate diploma in Computer Science. Would eventually like to learn JavaScript and Python down the track.
 - 📫 How to reach me - Here!
 
 <!---
