@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theo905
 - 👀 I’m interested in games, medical science, current affairs and of course coding :)
-- 🌱 Still new to this space but I'm currently learning C# as part of my Postgraduate diploma in Computer Science. Would eventually like to learn JavaScript and Python down the track.
+- 🌱 Still new to this space but I'm currently learning C#, Python, SQL and React.js as part of my Postgraduate diploma in Computer Science. 
 - 📫 How to reach me - Here!
 
 <!---
